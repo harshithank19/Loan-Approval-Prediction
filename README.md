@@ -13,6 +13,10 @@ A machine learning model that predicts loan approval outcomes based on applicant
 
 Traditional loan approval processes are manual, time-consuming, and prone to bias. This Mini project uses machine learning to automate the prediction of loan approvals based on key financial indicators like income, CIBIL score, assets, and loan amount — reducing human error and promoting fair decision-making.
 
+<img width="1905" height="912" alt="Homepage" src="https://github.com/user-attachments/assets/90a0b314-a028-42a4-8d67-755e087c2d5e" />
+<img width="1919" height="912" alt="Financial Profile" src="https://github.com/user-attachments/assets/a4b5d1d5-8187-431b-8579-9f5f51199065" />
+<img width="1912" height="917" alt="Financial Profile (3)" src="https://github.com/user-attachments/assets/c5604ae1-ebbe-4930-af33-f99b280d90b5" />
+
 ---
 
 ## 🚀 Features
